@@ -1,0 +1,76 @@
+body{
+    background-color: purple;
+    color: yellow;
+    background-image: url(nashigoren-touka.png);
+    background-position: center;
+    font-weight: bold;
+}
+
+.top h1 span{
+    color: yellow;
+    background-color: green;
+    padding: 8px 16px;
+}
+
+.title h2 span{
+    color: black;
+    background-color: yellow;
+    padding: 8px 16px;
+}
+
+h3{
+    color: black;
+    background-color: yellow;
+}
+
+.top{
+    margin: 32px 16px 16px 16px;
+}
+
+.title{
+    margin: 16px;
+}
+
+.menu a{
+    text-decoration: none;
+    background-color: black;
+    color: yellow;
+    padding: 16px 24px;
+    margin: 16px;
+}
+
+.menu{
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+.container{
+    display: flex;
+}
+
+.leftbar{
+    width: 25%;
+    margin: 16px;
+}
+
+.leftbar a{
+    color: yellow;
+}
+
+.middlebar{
+    width: 50%;
+    margin: 16px;
+}
+
+.rightbar{
+    width: 25%;
+    margin: 16px;
+}
+
+.param{
+    margin-bottom: 64px;
+}
+
+footer{
+    text-align: center;
+}
